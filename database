@@ -1,8 +1,5 @@
-                                                     MY FIRST SQLITE DATABASE VIA PYTHON
-                                                       
-
-
-import csv
+#MY FIRST SQLITE DATABASE VIA PYTHON
+import csv                                                      
 from dataclasses import dataclass
 from datetime import date
 import sqlite3
