@@ -1,5 +1,5 @@
 #MY FIRST SQLITE DATABASE VIA PYTHON
-...python...
+
 import csv                                                      
 from dataclasses import dataclass
 from datetime import date
@@ -37,6 +37,5 @@ def save_db(users):
 
 save_db(users)
 
-...
 
 
