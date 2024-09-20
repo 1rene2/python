@@ -1,4 +1,4 @@
-...python
+
 
 import csv
 from collections import namedtuple
@@ -34,4 +34,4 @@ sorted_users = sorted(users, key=lambda u: calculate_age(u.date_of_birth),
 
 for user in sorted_users:
     print(user)
-  ...
+  
